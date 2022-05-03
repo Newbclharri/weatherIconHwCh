@@ -14,6 +14,7 @@ export default function App() {
       />
     );
   });
+  console.log(allWeatherData)
   return (
     <div className="App">
       <h1>My WeatherIcons App</h1>
